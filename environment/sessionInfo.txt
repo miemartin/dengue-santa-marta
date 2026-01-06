@@ -1,0 +1,16 @@
+R version 4.2.3 (2023-03-15 ucrt)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19045)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=Spanish_Argentina.utf8  LC_CTYPE=Spanish_Argentina.utf8   
+[3] LC_MONETARY=Spanish_Argentina.utf8 LC_NUMERIC=C                      
+[5] LC_TIME=Spanish_Argentina.utf8    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+[1] compiler_4.2.3  tools_4.2.3     rstudioapi_0.14
